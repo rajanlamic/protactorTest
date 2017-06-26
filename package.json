@@ -1,0 +1,19 @@
+{
+  "name": "protactortest",
+  "version": "1.0.0",
+  "description": "protactor test",
+  "main": "index.js",
+  "scripts": {
+    "test": "protractor conf.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rajanlamic/protactorTest.git"
+  },
+  "author": "Rajan Lamichhane",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rajanlamic/protactorTest/issues"
+  },
+  "homepage": "https://github.com/rajanlamic/protactorTest#readme"
+}
